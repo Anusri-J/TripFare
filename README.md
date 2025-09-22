@@ -149,7 +149,7 @@ Model comparison & hyperparameter tuning
 
 Deploying an ML model as a Streamlit app for end users
 
-📎 References
+**📎 References**
 
 🔗 Streamlit Docs – https://docs.streamlit.io/
 
